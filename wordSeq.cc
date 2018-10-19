@@ -7,7 +7,7 @@ int main()
   int maxSeq=1;
 
   std::string a;
-  int seq=0;
+  int seq=1;
   while (std::cin >> a)
   {
     /*
