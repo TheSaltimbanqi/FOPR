@@ -7,9 +7,6 @@ int main()
   int a, i=0;
   while (std::cin >> a && i<num)
   {
-    if(isPrime)
-    {
-      
-    }
+    
   }
 }
